@@ -35,6 +35,8 @@ Each skill has an individual page (on our website) or an individual note (if you
 
 Where appropriate, we may also post short video demos or a link to an interactive exercise that you can try. We will also always try to provide a *Going Further* section, with links to extra activities on other platforms you can use to test your skills.
 
+*Note:* You can also view this series on our website: [https://shefesh.com/wiki/fundamental-skills/](https://shefesh.com/wiki/fundamental-skills/)
+
 ## Learning Path
 
 For all our sessions, especially the Give it a Go sessions, we aim to be able to teach the content to you from scratch. However, if you *want* to prepare in advance (and you really don't have to!) we recommend the following:
@@ -130,7 +132,7 @@ File Transfers: [[Pentesting 3 - File Transfers]]
 
 Accessing a Computer Remotely: [[Pentesting 4 - Remote Access to a Computer]]
 
-## Automation
+### Automation
 
 Automation with Bash: [[Automation 1 - Bash Scripting]]
 

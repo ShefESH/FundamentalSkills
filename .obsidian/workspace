@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fundamental Skills Index.md",
-            "mode": "preview"
+            "file": "Web/Web 2 - Understanding HTTP Requests.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamental Skills Index.md",
+                "file": "Web/Web 2 - Understanding HTTP Requests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "621e8728d4866cdf",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Web/Web 2 - Understanding HTTP Requests.md",
+    "Web/Web 1 - Inspecting a Webpage.md",
+    "Web/Web 2 - Understanding HTTP Requests.pdf",
+    "Web 2 - Understanding HTTP Requests.md",
+    "Attachments/Pasted image 20210913202851.png",
+    "Attachments/Pasted image 20210907161844.png",
+    "Fundamental Skills Index.md",
+    "README.md",
     "Web 1 - Inspecting a Webpage.md",
-    "Web/Web 1 - Inspecting a Webpage.pdf",
-    "Attachments/Pasted image 20210907152527.png",
-    "Attachments/Pasted image 20210907153200.png",
-    "Attachments/Pasted image 20210907153625.png",
-    "Attachments/Pasted image 20210907154109.png",
-    "Attachments/Pasted image 20210907155957.png",
-    "Attachments/Pasted image 20210907160159.png",
-    "Attachments/Pasted image 20210907160812.png"
+    "Untitled.md"
   ]
 }
