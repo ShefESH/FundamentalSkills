@@ -7,9 +7,10 @@
         "id": "621e8728d4866cdf",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Web/Web 1 - Inspecting a Webpage.pdf"
+            "file": "Fundamental Skills Index.md",
+            "mode": "preview"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Web 1 - Inspecting a Webpage.pdf",
+                "file": "Fundamental Skills Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,9 +88,15 @@
   },
   "active": "621e8728d4866cdf",
   "lastOpenFiles": [
-    "Web/Web 1 - Inspecting a Webpage.pdf",
+    "Untitled.md",
     "Web 1 - Inspecting a Webpage.md",
-    "Web/Web 1 - Inspecting a Webpage.md",
+    "Web/Web 1 - Inspecting a Webpage.pdf",
+    "Attachments/Pasted image 20210907152527.png",
+    "Attachments/Pasted image 20210907153200.png",
+    "Attachments/Pasted image 20210907153625.png",
+    "Attachments/Pasted image 20210907154109.png",
+    "Attachments/Pasted image 20210907155957.png",
+    "Attachments/Pasted image 20210907160159.png",
     "Attachments/Pasted image 20210907160812.png"
   ]
 }
