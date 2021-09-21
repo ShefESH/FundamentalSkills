@@ -7,10 +7,9 @@
         "id": "621e8728d4866cdf",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Web 1 - Inspecting a Webpage.md",
-            "mode": "preview"
+            "file": "Web/Web 1 - Inspecting a Webpage.pdf"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web 1 - Inspecting a Webpage.md",
+                "file": "Web/Web 1 - Inspecting a Webpage.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +87,7 @@
   },
   "active": "621e8728d4866cdf",
   "lastOpenFiles": [
+    "Web/Web 1 - Inspecting a Webpage.pdf",
     "Web 1 - Inspecting a Webpage.md",
     "Web/Web 1 - Inspecting a Webpage.md",
     "Attachments/Pasted image 20210907160812.png"

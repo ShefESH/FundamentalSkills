@@ -11,7 +11,9 @@
     - [[#Storage]]
       - [[#Modifying Cookies]]
     - [[#Network]]
+  - [[#Going Further]]
   - [[#Cheatsheet]]
+  - [[#Worksheet]]
 
 # Fundamental Skills - Inspecting a Webpage
 
@@ -165,6 +167,12 @@ Finally, clicking `Resend > Edit and Resend` in the top-right allows the request
 
 This lets us arbitrarily change data such as the `User-Agent` header.
 
+## Going Further
+
+To learn about how to use the Developer Tools, read the docs for each browser:
+- [https://developer.mozilla.org/en-US/docs/Tools](https://developer.mozilla.org/en-US/docs/Tools)
+- [https://developer.chrome.com/docs/devtools/](https://developer.chrome.com/docs/devtools/)
+
 For more about how HTTP requests work, including responses, headers, and request bodies, read the [[Web 2 - Understanding HTTP Requests|HTTP Requests]] Fundamental Skill page.
 
 ## Cheatsheet
@@ -174,3 +182,8 @@ View Site Source: `Ctrl + U`
 Open Developer Tools: `F12`
 
 Inspect a Specific Element: `Ctrl + Shift + C`
+
+## Worksheet
+
+1) Visit [https://shefesh.com](https://shefesh.com). Using the techniques we've looked at, what can you find?
+2) Visit [https://juice-shop.herokuapp.com/#/](https://juice-shop.herokuapp.com/#/) and open the Developer Tools. What sort of Javascript Files does it have? What about cookies?
