@@ -9,8 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web/Web 2 - Understanding HTTP Requests.md",
+            "file": "Web/Misc - Setting up a Virtual Machine.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "6e9a4b7078ae69bf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Web/Web 1 - Inspecting a Webpage.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Web 2 - Understanding HTTP Requests.md",
+                "file": "Web/Misc - Setting up a Virtual Machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +99,15 @@
   },
   "active": "621e8728d4866cdf",
   "lastOpenFiles": [
-    "Web/Web 2 - Understanding HTTP Requests.md",
+    "Web/Misc - Setting up a Virtual Machine.md",
+    "Misc - Setting up a Virtual Machine.md",
     "Web/Web 1 - Inspecting a Webpage.md",
+    "Web/Web 2 - Understanding HTTP Requests.md",
     "Web/Web 2 - Understanding HTTP Requests.pdf",
     "Web 2 - Understanding HTTP Requests.md",
     "Attachments/Pasted image 20210913202851.png",
     "Attachments/Pasted image 20210907161844.png",
     "Fundamental Skills Index.md",
-    "README.md",
-    "Web 1 - Inspecting a Webpage.md",
-    "Untitled.md"
+    "README.md"
   ]
 }
