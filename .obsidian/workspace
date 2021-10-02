@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web 3 - Burp Suite.md",
+            "file": "Web/Tools 1 - Curl.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web 3 - Burp Suite.md",
+                "file": "Web/Tools 1 - Curl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "621e8728d4866cdf",
   "lastOpenFiles": [
+    "Web/Tools 1 - Curl.md",
     "Web 3 - Burp Suite.md",
     "Web/Web 3 - Burp Suite.md",
     "Web/Misc - Setting up a Virtual Machine.md",
@@ -96,7 +97,6 @@
     "Misc - Setting up a Virtual Machine.md",
     "Web/Web 2 - Understanding HTTP Requests.md",
     "Web/Web 2 - Understanding HTTP Requests.pdf",
-    "Web 2 - Understanding HTTP Requests.md",
-    "Attachments/Pasted image 20210913202851.png"
+    "Web 2 - Understanding HTTP Requests.md"
   ]
 }
