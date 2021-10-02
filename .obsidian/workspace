@@ -9,18 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web/Misc - Setting up a Virtual Machine.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "6e9a4b7078ae69bf",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Web/Web 1 - Inspecting a Webpage.md",
+            "file": "Web 3 - Burp Suite.md",
             "mode": "preview"
           }
         }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Misc - Setting up a Virtual Machine.md",
+                "file": "Web 3 - Burp Suite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +88,15 @@
   },
   "active": "621e8728d4866cdf",
   "lastOpenFiles": [
+    "Web 3 - Burp Suite.md",
+    "Web/Web 3 - Burp Suite.md",
     "Web/Misc - Setting up a Virtual Machine.md",
-    "Misc - Setting up a Virtual Machine.md",
+    "README.md",
     "Web/Web 1 - Inspecting a Webpage.md",
+    "Misc - Setting up a Virtual Machine.md",
     "Web/Web 2 - Understanding HTTP Requests.md",
     "Web/Web 2 - Understanding HTTP Requests.pdf",
     "Web 2 - Understanding HTTP Requests.md",
-    "Attachments/Pasted image 20210913202851.png",
-    "Attachments/Pasted image 20210907161844.png",
-    "Fundamental Skills Index.md",
-    "README.md"
+    "Attachments/Pasted image 20210913202851.png"
   ]
 }
