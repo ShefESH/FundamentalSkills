@@ -1,3 +1,10 @@
+
+# Fundamental Skills - Setting up a Virtual Machine
+
+|Category|Experience Level|Author|
+|---|---|---|
+|Misc|Novice|Mac Goodwin|
+
 ## Contents
 - [[#Fundamental Skills - Setting up a Virtual Machine]]
   - [[#Virtualisation Software]]
@@ -13,11 +20,7 @@
   - [[#Networking a VM]]
   - [[#Worksheet]]
 
-# Fundamental Skills - Setting up a Virtual Machine
-
-|Category|Experience Level|
-|---|---|
-|Misc|Novice|
+## Intro
 
 Virtual Machines (VMs) are useful tools for running a 'virtualised' version of a computer as a program on your normal computer.
 

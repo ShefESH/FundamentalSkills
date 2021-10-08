@@ -1,4 +1,10 @@
-# Contents
+# Fundamental Skills - Inspecting a Webpage
+
+|Category|Experience Level|Author|
+|---|---|---|
+|Web|Complete Beginner|Mac Goodwin|
+
+## Contents
 - [[#Fundamental Skills - Inspecting a Webpage]]
   - [[#Page Content]]
     - [[#Viewing the Site Source]]
@@ -14,12 +20,6 @@
   - [[#Going Further]]
   - [[#Cheatsheet]]
   - [[#Worksheet]]
-
-# Fundamental Skills - Inspecting a Webpage
-
-|Category|Experience Level|
-|---|---|
-|Web|Complete Beginner|
 
 ## Page Content
 

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web/Automation 1 - Bash Scripting.md",
-            "mode": "preview"
+            "file": "Web 3 - Burp Suite.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Automation 1 - Bash Scripting.md",
+                "file": "Web 3 - Burp Suite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "621e8728d4866cdf",
   "lastOpenFiles": [
-    "Web/Automation 1 - Bash Scripting.md",
-    "Automation 1 - Bash Scripting.md",
-    "Web/Tools 1 - Curl.md",
     "Web 3 - Burp Suite.md",
-    "Web/Web 3 - Burp Suite.md",
-    "Web/Misc - Setting up a Virtual Machine.md",
-    "README.md",
-    "Web/Web 1 - Inspecting a Webpage.md",
+    "Web 2 - Understanding HTTP Requests.md",
+    "Web 1 - Inspecting a Webpage.md",
+    "Tools 1 - Curl.md",
     "Misc - Setting up a Virtual Machine.md",
-    "Web/Web 2 - Understanding HTTP Requests.md"
+    "Automation 1 - Bash Scripting.md",
+    "Web/Automation 1 - Bash Scripting.md",
+    "Web/Tools 1 - Curl.md",
+    "Web/Web 3 - Burp Suite.md",
+    "Web/Misc - Setting up a Virtual Machine.md"
   ]
 }

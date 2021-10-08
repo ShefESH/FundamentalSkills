@@ -1,3 +1,9 @@
+# Fundamental Skills - Curl
+
+|Category|Experience Level|Author|
+|---|---|---|
+|Tools|Novice|Mac Goodwin|
+
 ## Contents
 - [[#Fundamental Skills - Curl]]
   - [[#Introduction]]
@@ -8,12 +14,6 @@
     - [[#Proxies]]
   - [[#Cheatsheet]]
   - [[#Worksheet]]
-
-# Fundamental Skills - Curl
-
-|Category|Experience Level|
-|---|---|
-|Tools|Novice|
 
 ## Introduction
 

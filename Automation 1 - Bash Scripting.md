@@ -1,8 +1,8 @@
 # Fundamental Skills - Bash Scripting
 
-|Category|Experience Level|
-|---|---|
-|Automation|Novice|
+|Category|Experience Level|Author|
+|---|---|---|
+|Automation|Novice|Mac Goodwin|
 
 ## Contents
 - [[#Fundamental Skills - Bash Scripting]]

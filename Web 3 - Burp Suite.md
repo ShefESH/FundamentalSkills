@@ -1,8 +1,8 @@
 # Fundamental Skills - Burp Suite
 
-|Category|Experience Level|
-|---|---|
-|Web|Novice|
+|Category|Experience Level|Author|
+|---|---|---|
+|Web|Novice|Mac Goodwin|
 
 ## Contents
 - [[#Fundamental Skills - Burp Suite]]

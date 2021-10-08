@@ -1,4 +1,10 @@
-# Contents
+# Fundamental Skills - Understanding HTTP Requests
+
+|Category|Experience Level|Author|
+|---|---|---|
+|Web|Complete Beginner|Mac Goodwin|
+
+## Contents
 - [[#Fundamental Skills - Understanding HTTP Requests]]
   - [[#What is a HTTP Request?]]
     - [[#Web Servers]]
@@ -11,12 +17,6 @@
   - [[#Making a HTTP Request]]
   - [[#Going Further]]
   - [[#Worksheet]]
-
-# Fundamental Skills - Understanding HTTP Requests
-
-|Category|Experience Level|
-|---|---|
-|Web|Complete Beginner|
 
 ## What is a HTTP Request?
 
