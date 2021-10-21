@@ -115,3 +115,8 @@ For example, `find / -name "File4.sh"` would find all files where the name of th
 We can also use wildcards within the search if we don't know the full name of the file/directory to find: `find / -name "File4.*"`
 
 ![[Pasted image 20211019222354.png]]
+
+Now it's all good and well trying to find files based on names and permissions, but what about if we want to find text within a load of files? For that we can use the `grep` command. Grep allows us to search through one or multiple files for text or regular expressions. To search through a single file for a string we can type `grep "Search term" /path/to/file`. To search through multiple files recursively we can use `grep -r "search term" /path/to/directory`. The grep command is increadiby useful, you will likely find yourself using it a lot in Linux.
+
+![[Pasted image 20211021131552.png]]
+
