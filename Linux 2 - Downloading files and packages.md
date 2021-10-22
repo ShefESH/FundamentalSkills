@@ -29,4 +29,12 @@ If you want to find packages and how to install them on your distribution, you c
 ## Installing packages manually
 Manually installing packages means that you have to type some extra commands to install them, and you have to maintian them yourself (as the package managers generally won't update them for you).
 
+Some applications make it relatively simple to install the program by giving you an executable or a bash script you can run to install the program. It's as simple as opening a terminal and running the script.
 
+### deb packages
+Some packages come in the form of .deb files, these can be installed using the `dpkg` or `apt` package manager, with `sudo dpkg -i ./filename.deb` and `sudo apt install ./filename.deb` respectively. This will install the package using the package manager, however you may have to manually update the package.
+
+### Using `configure` and `make`
+Some packages may not be installable via a package manager at all, and instead you need to 'build' the application. In this scenareo the developer of the application will generally give you build instructions for you to use to compile the project yourself.
+
+Quite often you may have to make a 
