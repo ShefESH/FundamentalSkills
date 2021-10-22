@@ -1,4 +1,19 @@
 # Navigating the file system
+
+|Category|Experience Level|Author|
+|---|---|---|
+|Linux|Novice|Nick Ruffles|
+
+## Contents
+- [[#Bash]]
+- [[#File system structure]]
+- [[#Listing files]]
+- [[#Displaying contents of files]]
+- [[#Creating and editing files]]
+- [[#Moving removing and copying files]]
+- [[#Changing user]]
+- [[#Locating files and text]]
+
 ## Bash
 First of all, we need to know the 'shell' that we will be using. Bash is a binary (application) that comes pre-installed in most Linux operating systems. It is a way to directly interface with programs and files on the computer, and hence is very useful for controlling what the computer does.
 

@@ -1,5 +1,16 @@
 # Downloading files and packages
 
+|Category|Experience Level|Author|
+|---|---|---|
+|Linux|Novice|Nick Ruffles|
+
+## Contents
+- [[#Downloading files]]
+- [[#Downloading packages]]
+- [[#Installing packages manually]]
+- [[#deb packages]]
+- [[#Using make]]
+
 ## Downloading files
 
 In Linux there are two main utilities for downloading files, and both have a very similar sort of syntax. The go-to for downloading files is `wget`, it is avaliable on (allmost all) Linux distributions as well as windows.
@@ -34,7 +45,10 @@ Some applications make it relatively simple to install the program by giving you
 ### deb packages
 Some packages come in the form of .deb files, these can be installed using the `dpkg` or `apt` package manager, with `sudo dpkg -i ./filename.deb` and `sudo apt install ./filename.deb` respectively. This will install the package using the package manager, however you may have to manually update the package.
 
-### Using `configure` and `make`
+### Using `make`
 Some packages may not be installable via a package manager at all, and instead you need to 'build' the application. In this scenareo the developer of the application will generally give you build instructions for you to use to compile the project yourself.
 
-Quite often you may have to make a 
+Generally following the install instructions given by the developer will work well, it's normally stored in the `README.md` file in the repository. In most cases you will be using  `make` to install the software. First check to see if there is a `makefile` file in the repository, as this will contain how Linux should build the software. For example, check out the makefile for [Timeshift](https://github.com/teejee2008/timeshift/blob/master/src/makefile) repository. First we can run `make` to build the software, then we will use `make install` to move the compiled binaries into the correct location for Linux to use (normally in the `/bin` and `/usr/bin` directories).
+
+![[Pasted image 20211022105207.png]]
+
