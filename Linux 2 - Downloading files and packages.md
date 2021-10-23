@@ -1,4 +1,4 @@
-# Downloading files and packages
+# Downloading Files and Packages
 
 |Category|Experience Level|Author|
 |---|---|---|

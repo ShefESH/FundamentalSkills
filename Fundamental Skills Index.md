@@ -46,7 +46,7 @@ For all our sessions, especially the Give it a Go sessions, we aim to be able to
 	- [[Web 2 - Understanding HTTP Requests]]
 - If you're attending the Linux Give it a Go session:
 	- [[Misc - Setting up a Virtual Machine]]
-	- [[Linux 1 - Navigating a File System]]
+	- [[Linux 1 - Navigating the File System]]
 	- [[Linux 2 - Downloading Files and Packages]]
 - To prep for the Automation session:
 	- [[Automation 1 - Bash Scripting]]

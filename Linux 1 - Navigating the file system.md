@@ -1,8 +1,8 @@
-# Navigating the file system
+# Navigating the File System
 
 |Category|Experience Level|Author|
 |---|---|---|
-|Linux|Novice|Nick Ruffles|
+|Linux|Complete Beginner|Nick Ruffles|
 
 ## Contents
 - [[#Bash]]
